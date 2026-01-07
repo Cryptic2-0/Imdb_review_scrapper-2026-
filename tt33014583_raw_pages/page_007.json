@@ -1,0 +1,748 @@
+{
+  "data": {
+    "title": {
+      "reviews": {
+        "total": 2561,
+        "pageInfo": {
+          "endCursor": "g4w6tcbsqyxdo6id76vx3mbqrlu4obr43aktr67la3o6qebgnesk2ck7payfzjchbob2infj6zdvzreyyltibdhqsy",
+          "hasNextPage": true,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "rw11007390",
+              "author": {
+                "username": {
+                  "text": "pagladadu"
+                },
+                "userId": "ur187605012"
+              },
+              "summary": {
+                "originalText": "Great movie, waiting for next part."
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "After a long time I liked something from bollywood and to be honest after baby, this one is worth watching as a spy movie. Loved Askhaye Khanna and arjun rampals work, arjun rampal did his work so well as a villain I kind of hate him now. Sanjay Dutts role suited him and did like R. Manhattan. Rancher Singh did a good job too. I enjoyed my 3h, worth it."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007390/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007831",
+              "author": {
+                "username": {
+                  "text": "saumilraj"
+                },
+                "userId": "ur87899240"
+              },
+              "summary": {
+                "originalText": "excellent"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Superb movie, superb direction , superb story and superb performance.the actors acting is like fine old wine , and the songs are brilliant . All the things are placed beautifully at every point , the plot is excellent and the glimpse of real incidents are give so much pain and anger . What a peice of art is that movie in the history of indian cinema."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007831/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11008550",
+              "author": {
+                "username": {
+                  "text": "justmailsameer"
+                },
+                "userId": "ur86018646"
+              },
+              "summary": {
+                "originalText": "Seedhe baat No Bakwas"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "I saw Dhurandhar yesterday and was awestruck by the sincerity and clarity with which the whole story has been told - brutally honest, very straightforward. This is unapologetically a pro-India film, and for me, that is exactly why it matters right now. The True Dhurandhar is Mr. Aditya Dhar.<br/><br/>For me, Dhurandhar feels like Hindi cinema&#39;s Schindler&#39;s List moment in spirit - a long, edge of the seat and essential cinematic document that entertains, disturbs and, above all, refuses to lie about the cost of keeping this country standing. Sidhee baat, no bakwas: this is the kind of film that doesn&#39;t just deserve to work at the box office, it deserves to be rewatched, debated and remembered."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11008550/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11055939",
+              "author": {
+                "username": {
+                  "text": "gstawre"
+                },
+                "userId": "ur26129365"
+              },
+              "summary": {
+                "originalText": "Everything is glorified ...."
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Glorified.... everything is glorified .... the length .... the violence ..... the bloodshed .... the villains.... even their introduction scenes are glorified .... the bloodshed ..... the helplessness of Indian Government.... the movie could have easily trimmed by 30 minutes with trimming of bike chase scene, songs, villain introduction, the last fight sequence ... in that scene even the sidekick is glorified when he shoots with bombs attached to his body .... why he is glorified ... is he a silent hero ? ... the movie felt like a Dhoom franchise where villain is the main attraction .... Rehman gets an extra scene even after death .... but then it was good masala movie ... the thing which stayed with me was R Madhavan&#39;s intense stare in the opening scene in the plane ... I wish that raw intensity was there throughout te film."
+                }
+              },
+              "authorRating": 6,
+              "submissionDate": "2025-12-26",
+              "helpfulness": {
+                "upVotes": 1,
+                "downVotes": 0
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11055939/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11021524",
+              "author": {
+                "username": {
+                  "text": "voodoodex-19167"
+                },
+                "userId": "ur93229279"
+              },
+              "summary": {
+                "originalText": "another cashcow in the name of jingoism"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Many plotholes, the writer(s) tries to use a lot of sub-plots, that they forget to give main plot strength, the plot of love-story for the antagonist to get into power. The shock value of gore is overused, no complains there, use better music, viz. Metal music. Also if you&#39;re unable to convey the whole fictional story in 3+ hrs, better to make a series rather than a movie, oh wait you want it to be a cashcow."
+                }
+              },
+              "authorRating": 2,
+              "submissionDate": "2025-12-12",
+              "helpfulness": {
+                "upVotes": 8,
+                "downVotes": 33
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11021524/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11011600",
+              "author": {
+                "username": {
+                  "text": "vikashburnwal"
+                },
+                "userId": "ur35376240"
+              },
+              "summary": {
+                "originalText": "What did I watch.. mind blown, just wow!!"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "For 3 and a half hour, you are glued to the screen, that&#39;s how captivating it is.<br/><br/>Recommend to watch it on Big screen, the charisma wouldn&#39;t be same on tv.<br/><br/>Each actor played their role beautifully. Akshay Khanna commands this movie, Ranveer Singh / R. Madhavan/ Arjun Rampal shine as well. It shows brutality / murder but that&#39;s part of the story."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11011600/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006310",
+              "author": {
+                "username": {
+                  "text": "aaiyasfreakmonster"
+                },
+                "userId": "ur83370630"
+              },
+              "summary": {
+                "originalText": "Good mixture of a spy and mafia genre"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Really good integration of the past events with a solid story line. The duration of the movie is justified to its every second as it allows growth of every character.<br/><br/>Must watch for all\nNote- If you are familiar with the political scenarios in baloch it will really enhance your experience.<br/><br/>Outstanding acting."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006310/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11010220",
+              "author": {
+                "username": {
+                  "text": "Kalpesh_Rajdeo"
+                },
+                "userId": "ur28221117"
+              },
+              "summary": {
+                "originalText": "A Gripping Saga with a Rushed Finale"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "A larger-than-life thriller that earns its runtime, despite a messy landing and poor action.<br/><br/>If you see the 3.5-hour runtime and hesitate, don&#39;t. Dhurandhar moves with such pace and intensity that it genuinely does not feel like a long movie. It is an excellent thriller anchored by great dialogues and massive screen presence from (most of) its cast.<br/><br/>The absolute highlight is Akshaye Khanna. I predicted this back when the trailers dropped, but the &quot;aura farming&quot; he achieves here is legendary. He cuts a menacing figure throughout the film and steals every scene he is in.<br/><br/>He is backed by strong performances from R. Madhavan, who brings incredible poise to the screen, and Arjun Rampal, whose sinister presence adds a layer of dread to the narrative.<br/><br/>What sets this apart from the standard Bollywood fare, however, is the treatment of the protagonist. It was a swift and welcome departure to see a hero allowed to be vulnerable. Moving away from the &quot;untouchable god&quot; trope made the stakes feel real.<br/><br/>Unfortunately, Sanjay Dutt&#39;s SP Chaudhary was a let down. The character felt less capable than the setting demanded, and it felt like a missed opportunity. As for the leading lady, she was just okay, not hateable, but not memorable either.<br/><br/>The biggest technical flaw, however, is the action. It is painful to say, but it seems we Indians cannot choreograph a good gunfight if our lives depended on it. For a movie with such high stakes, the shootouts lacked the tactical grit and polish needed to be convincing.<br/><br/>The film stumbles hardest at the finish line. The story culminates in a chaotic scramble that felt like an absolute mess. It was rushed and missed a golden opportunity to deliver a truly diabolical, dark ending that the tone of the movie deserved.<br/><br/>However, the movie saves face in the dying moments. The final reveal of the plan and the setup for Part 2 were welcome additions that left me wanting more."
+                }
+              },
+              "authorRating": 8,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11010220/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11011612",
+              "author": {
+                "username": {
+                  "text": "AadityaM-62"
+                },
+                "userId": "ur211575524"
+              },
+              "summary": {
+                "originalText": "Amazing movie .... Uncovering the real truth"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The overall movie is very good ... It is filled with action, drama and non stop scenes... It really uncovers the real truth of pakistan and the incidents that happend in the past ... Really good movie, and the violence in the movie is unbelievable... It almost looks too real even better than final destination vfx."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11011612/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11011174",
+              "author": {
+                "username": {
+                  "text": "deepadwibedi-33675"
+                },
+                "userId": "ur164982646"
+              },
+              "summary": {
+                "originalText": "Extraordinary movie, hats off to Aditya dhar and team."
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "This is one of the best movies made in bollywood, aditya dhar just raised the bar super High. Finally seen a realistic spy movie, comparable to hollywood and other international spy movies. Finally someone showing real life story of spy soldiers. Warna toh love story k as-pas hi so called spy movies ghumti hai. All actors are absolutely brilliant, Akshay Khanna deserves sply applause. This is must watch theater movie. Plz watch&#39; it, remember that this real life story of our braveheart spy soldier. And it shows real life struggle and situation in other side. Must watch 10/10 star movie."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11011174/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11011598",
+              "author": {
+                "username": {
+                  "text": "anushadubey-83900"
+                },
+                "userId": "ur160538356"
+              },
+              "summary": {
+                "originalText": "After a long time something was really good from Bollywood"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "I liked each and every minute of this film. Really engaging.<br/><br/>This movie stands out for its compelling narrative and strong character development. The director masterfully balances drama and emotion, supported by a visually stunning cinematography that elevates every scene.<br/><br/>The performances feel authentic, and the background score enhances the emotional weight of the story without overshadowing it.<br/><br/>Pacing is steady, and the screenplay ensures viewers remain engaged from start to finish.<br/><br/>Overall, it&#39;s a memorable film that successfully blends entertainment with meaningful storytelling."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11011598/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11011327",
+              "author": {
+                "username": {
+                  "text": "golemstark"
+                },
+                "userId": "ur150963940"
+              },
+              "summary": {
+                "originalText": "Marvelous"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "This movie is raw and brutal. Not only does it not shy away from showing the truth of state sponsored terrorism, but also shows it with the most grounded and realistic way possible. The action is top notch. The brutality is top notch. The music is top notch. The cinematography is top notch. Story is simple but the way of showing it is amazing and gut wrenching.<br/><br/>It may feel slow in the middle, but the second half picks pace and delivers the ultimate fun that you can expect in a spy film."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-08",
+              "helpfulness": {
+                "upVotes": 3,
+                "downVotes": 1
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11011327/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007192",
+              "author": {
+                "username": {
+                  "text": "vidhanjaiswal"
+                },
+                "userId": "ur118092891"
+              },
+              "summary": {
+                "originalText": "Big Action, Big Drama, Big Stars"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film is an intense exploration of morality, power, and survival in a dangerous underworld. Ranveer Singh delivers a performance full of nuance, seamlessly balancing vulnerability, determination, and strategic calculation. Sanjay Dutt brings weight, authority, and menace to every scene. Akshaye Khanna and R Madhavan provide subtle, layered performances that strengthen the narrative. Arjun Rampal exudes quiet menace that keeps tension taut, while Sara Arjun&#39;s emotional depth highlights the stakes. Aditya Dhar&#39;s direction integrates suspense, strategic plotting, and thrilling action sequences perfectly. Cinematography captures both the chaos of urban landscapes and the intimacy of human moments, while the score heightens suspense and emotion. By the climax, the story delivers a thrilling and emotionally satisfying payoff."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007192/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11051846",
+              "author": {
+                "username": {
+                  "text": "AnthonyDsilwa"
+                },
+                "userId": "ur211288836"
+              },
+              "summary": {
+                "originalText": "Dhurandhar: A Refreshing Espionage Thriller Bollywood Needed"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Catching Dhurandhar at Movietime Goregaon East was a refreshing change, especially since high-quality Bollywood releases have felt a bit rare lately. This film is a significant contribution to the industry, proving there is a massive demand among discerning viewers for well-crafted, high-stakes espionage thrillers. The technical precision and focus on authentic intelligence-gathering techniques make it a standout entry that elevates the typical spy genre. I suspect the film will find a particularly deep connection with Muslim audiences, as its narrative layers and cultural nuances are handled with a unique level of relatability. It is exactly the kind of intelligent, mission-driven cinema we need more of to keep the Bollywood industry evolving and engaging for its core audience. Becauz of its sharp execution and much-needed focus on a sophisticated plot, am giving Dhurandhar three and a half stars."
+                }
+              },
+              "authorRating": 7,
+              "submissionDate": "2025-12-24",
+              "helpfulness": {
+                "upVotes": 1,
+                "downVotes": 0
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11051846/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11066804",
+              "author": {
+                "username": {
+                  "text": "manishkj-56342"
+                },
+                "userId": "ur119742013"
+              },
+              "summary": {
+                "originalText": "Overrated, Stretched storyline, Great Acting by Akshay Khanna and Ranveer Singh"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Despite the stellar acting, the film&#39;s biggest enemy is its own ambition. Clocking in at a staggering 214 minutes (over 3.5 hours), the storyline feels significantly stretched.<br/><br/>While the &quot;chapters&quot; format worked for Aditya Dhar in Uri, here it leads to a meandering middle act. The deep dive into the internal politics of the Karachi underworld is atmospheric, but it often loses sight of the central espionage plot. By the time the film reaches its final act, the sheer volume of events creates a sense of fatigue that even the high-octane action sequences can&#39;t entirely fix."
+                }
+              },
+              "authorRating": 5,
+              "submissionDate": "2025-12-28",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 4
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11066804/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007180",
+              "author": {
+                "username": {
+                  "text": "satul-92387"
+                },
+                "userId": "ur118092777"
+              },
+              "summary": {
+                "originalText": "The Ultimate Star-Studded Action Drama"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "From its opening, the film immerses viewers in a high-stakes world of intrigue, danger, and complex human conflict. Ranveer Singh delivers a captivating performance, navigating moral dilemmas with intensity, intelligence, and vulnerability. Sanjay Dutt commands every scene with gravitas and authority, while Akshaye Khanna and R Madhavan enrich the story with layered, subtle performances. Arjun Rampal&#39;s controlled menace keeps tension taut, and Sara Arjun&#39;s scenes heighten emotional stakes. Aditya Dhar&#39;s direction balances narrative complexity, suspense, and thrilling action sequences flawlessly. Cinematography captures both sprawling urban chaos and intimate character moments, and the score elevates every beat of suspense and emotion. By the second half, stakes escalate dramatically, culminating in a finale that is both adrenaline-fueled and emotionally powerful."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007180/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007208",
+              "author": {
+                "username": {
+                  "text": "ranveerrajrr"
+                },
+                "userId": "ur118093926"
+              },
+              "summary": {
+                "originalText": "Stellar Cast in a Thrilling Adventure"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film crafts an immersive, high-stakes world where danger, loyalty, and morality collide. Ranveer Singh delivers a multi-dimensional performance, balancing vulnerability, intelligence, and intensity. Sanjay Dutt adds weight, authority, and menace, while Akshaye Khanna and R Madhavan provide nuanced support. Arjun Rampal&#39;s quiet menace amplifies tension, and Sara Arjun&#39;s emotional depth makes the stakes tangible. Aditya Dhar directs with precision, blending suspense, strategic plotting, and explosive action. Cinematography captures chaos and intimacy with equal finesse, and the score heightens every beat of tension and emotion. The second half escalates into thrilling action, shocking revelations, and emotional resonance, culminating in a finale that lingers long after the credits."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007208/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006465",
+              "author": {
+                "username": {
+                  "text": "siya-70019"
+                },
+                "userId": "ur188402307"
+              },
+              "summary": {
+                "originalText": "Layers of Emotion Wrapped in Explosive Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Tension is expertly layered throughout, blending narrative complexity with breathtaking action. The protagonist delivers a performance full of nuance and intensity, navigating moral dilemmas with credibility. Action scenes are visually striking and narratively meaningful, heightening stakes and revealing character. Supporting actors enrich the story, each contributing unique motivations and emotional depth. Cinematography and sound design work in harmony to create a fully immersive experience. Political undertones and underworld dynamics lend realism to the high-stakes world. The story&#39;s pacing ensures suspense builds naturally, culminating in a finale that is thrilling, emotionally resonant, and unforgettable."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006465/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007269",
+              "author": {
+                "username": {
+                  "text": "nikhilraizada-87892"
+                },
+                "userId": "ur123184478"
+              },
+              "summary": {
+                "originalText": "A Thrilling Ride with Ranveer & Team"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film is an intricate exploration of power, loyalty, and moral ambiguity, with each frame contributing to the narrative&#39;s immersive quality. Ranveer Singh delivers a multi-layered performance, shifting effortlessly between vulnerability, cunning, and relentless determination. Sanjay Dutt&#39;s commanding presence provides tension and gravitas, while Akshaye Khanna and R Madhavan enhance the ensemble with subtle, intelligent portrayals. Arjun Rampal&#39;s quiet menace keeps viewers on edge, and Sara Arjun&#39;s emotional authenticity heightens the stakes. Aditya Dhar&#39;s direction fuses narrative strategy with visceral, high-stakes action seamlessly. Cinematography balances sweeping city vistas and intimate close-ups, immersing audiences fully. The score accentuates every beat of tension and emotion. By the climax, the story reaches a thrilling, emotionally resonant crescendo that lingers long after viewing."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007269/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007175",
+              "author": {
+                "username": {
+                  "text": "arhaankhank"
+                },
+                "userId": "ur118092732"
+              },
+              "summary": {
+                "originalText": "A Blockbuster Feast of Drama and Stars"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film builds a complex world of moral dilemmas, danger, and strategy, where every action has consequences. Ranveer Singh anchors the story with a layered, nuanced performance that portrays intelligence, courage, and vulnerability. Sanjay Dutt&#39;s presence adds gravitas and menace, while Akshaye Khanna and R Madhavan provide thoughtful, understated performances. Arjun Rampal&#39;s quiet menace heightens tension, and Sara Arjun&#39;s emotional depth makes the stakes tangible. Aditya Dhar&#39;s direction seamlessly blends suspense, action, and character development. Cinematography captures the story&#39;s chaos and intimacy, and the score punctuates tension. By the finale, the narrative converges into a thrilling and emotionally resonant climax."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007175/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007062",
+              "author": {
+                "username": {
+                  "text": "aryadeoa"
+                },
+                "userId": "ur190972929"
+              },
+              "summary": {
+                "originalText": "A High-Impact Drama with Relentless Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The tension is constant, building organically across a narrative full of strategy, stakes, and emotion. Ranveer Singh brings a layered, magnetic performance, while Sanjay Dutt&#39;s presence commands attention. Akshaye Khanna and R Madhavan enhance every scene with intelligent support, and Arjun Rampal&#39;s menace is quietly threatening. Sara Arjun contributes poignancy and human stakes. Director Aditya Dhar orchestrates action, suspense, and drama with precision, using cinematography and sound design to immerse the audience. The film&#39;s pacing, editing, and score keep viewers engaged until a climax that is both explosive and emotionally resonant."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007062/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006826",
+              "author": {
+                "username": {
+                  "text": "avinashkumaravk"
+                },
+                "userId": "ur188346874"
+              },
+              "summary": {
+                "originalText": "A Thrilling Story Told with Star Brilliance"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Every frame feels deliberate, every scene charged with a mix of strategy, danger, and emotion. Ranveer Singh&#39;s commitment to the role shines in both subtle glances and high-octane action sequences. The director&#39;s vision transforms what could have been a standard action thriller into a layered narrative exploring morality, loyalty, and survival. Secondary characters are sharply written and convincingly portrayed, adding texture to the story. The cinematography alternates between wide, sweeping shots and tight, intimate angles, heightening tension. Action scenes are visceral and impactful, supported by a soundtrack that punctuates rather than dominates. This film is as much about psychological complexity as it is about adrenaline."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006826/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006518",
+              "author": {
+                "username": {
+                  "text": "samarhuyaar"
+                },
+                "userId": "ur188346915"
+              },
+              "summary": {
+                "originalText": "An Emotion-Charged Adventure of Epic Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Every moment in the story is charged with suspense, moral complexity, and visual intensity. The protagonist&#39;s performance is compelling, showing physical prowess and inner conflict with equal conviction. Action sequences are precise, adrenaline-charged, and narratively meaningful. Supporting characters add layers, creating a rich, immersive world. Cinematography captures both grand spectacle and quiet tension with care. Sound design and score amplify drama and emotion, enhancing the immersive experience. The narrative seamlessly blends personal stakes with political intrigue, keeping viewers engaged throughout. The climax delivers both high-octane thrills and emotional catharsis, leaving a lasting cinematic impact."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006518/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11031153",
+              "author": {
+                "username": {
+                  "text": "emergencyid-15989"
+                },
+                "userId": "ur187819288"
+              },
+              "summary": {
+                "originalText": "It turned out to be what I thought!"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "When I came to know that this is a multi-starrer film, I thought it would be the same outdated massy film, and Aditya Dhar is the director, so what I thought was a good film turned out to be the same. Everyone&#39;s acting was good, the storytelling was also good, they just did not show anything unnecessary. The songs were also good and the environment shown of Lyari also gave a dark feel. Even the terrorist attacks that were planned on India were not shown as useless or overdone."
+                }
+              },
+              "authorRating": 7,
+              "submissionDate": "2025-12-16",
+              "helpfulness": {
+                "upVotes": 1,
+                "downVotes": 0
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11031153/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11044811",
+              "author": {
+                "username": {
+                  "text": "Vijayk-4579"
+                },
+                "userId": "ur211843504"
+              },
+              "summary": {
+                "originalText": "Not that fun"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Wast of my time, wast of money, wast of my sleep, wast of my self- confidence, wast of my self-respect, wast of my self-worth, wast of my 3 hours and 3 minutes I could have spent the same with a good amount of sleep..\nthe story feels very exaggerated the violence was good nothing else.<br/><br/>Also I didn&#39;t like Ranveer&#39;s hair\nActing needs more power just Akshay Khanna was good.<br/><br/>I fell asleep in the popcorn bucket it was that boring🙄🙄"
+                }
+              },
+              "authorRating": 2,
+              "submissionDate": "2025-12-21",
+              "helpfulness": {
+                "upVotes": 4,
+                "downVotes": 13
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11044811/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "disclaimer": "Public, commercial, and/or non-private use of the IMDb data provided by this API is not allowed. For limited non-commercial use of IMDb data and the associated requirements see https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX#",
+    "experimentalFields": {
+      "janet": [],
+      "userProfile": []
+    }
+  }
+}

@@ -1,0 +1,748 @@
+{
+  "data": {
+    "title": {
+      "reviews": {
+        "total": 2561,
+        "pageInfo": {
+          "endCursor": "g4uoncbsqyxdo6ib72vhrobwqpum6bj73qktx7pkalo6qebgnesk2dk4oyyvzjchbgjzm4g5ybtlygqliftj5dfoya",
+          "hasNextPage": true,
+          "hasPreviousPage": false
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "rw11006185",
+              "author": {
+                "username": {
+                  "text": "JaivardhanVerma"
+                },
+                "userId": "ur107815683"
+              },
+              "summary": {
+                "originalText": "Phenomenal"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "It&#39;s been a long time since there was a film made so perfect. The story, the casting, the styling, the direction, the performances, the editing, the music! This is &quot;absolute cinema&quot;.<br/><br/>Akshaye Khanna is outstanding. R Madhavan is amazing and subtle! Rakesh Bedi ji is fantastic. Ranveer Singh is fabulous. Sanjay Dutt and Arjun Rampal are superb, and so is Gaurav Gera!! Sara Arjun is great! Aditya Dhar has done something unbelievable with this film! A run-time so long and you don&#39;t even realise it! Hat&#39;s off!"
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006185/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006650",
+              "author": {
+                "username": {
+                  "text": "dineshkumarx-67589"
+                },
+                "userId": "ur192030632"
+              },
+              "summary": {
+                "originalText": "Stellar Acting with Electrifying Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "This film is a masterclass in balancing action with emotion, showcasing performances that feel lived-in and authentic. Ranveer Singh commands attention, portraying his character&#39;s inner conflict with nuance and strength, while the supporting actors provide compelling depth to the layered narrative. Director Dhar orchestrates a tense, immersive experience, where suspense and strategy drive every scene. The action sequences are breathtakingly choreographed, mixing high-octane intensity with thoughtful storytelling. Cinematography enhances both spectacle and intimacy, ensuring the visual narrative complements the plot. Editing is sharp and deliberate, keeping the film engaging even during long stretches of exposition. The background score underscores tension and emotion with subtlety, never overpowering the story. Political undertones and real-world parallels lend authenticity, elevating the stakes. By the finale, the film leaves viewers exhilarated, thoughtful, and profoundly moved."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006650/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006703",
+              "author": {
+                "username": {
+                  "text": "iamasishk"
+                },
+                "userId": "ur166745777"
+              },
+              "summary": {
+                "originalText": "A Thrill Ride Driven by Brilliant Performances"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Watching Dhurandhar felt like being on a rollercoaster that doesn&#39;t stop. From the first scene, the direction pulls you into the story, making every twist exciting. The lead actors gave amazing performances-they looked natural and believable, you could feel what they were feeling. Supporting actors also shined, making the story richer. The action scenes were perfectly shot, and the background music made every moment intense. The director made sure that even long scenes never felt boring. This is one film that keeps you glued to the screen from start to finish."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006703/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11008022",
+              "author": {
+                "username": {
+                  "text": "debanujc"
+                },
+                "userId": "ur90847767"
+              },
+              "summary": {
+                "originalText": "Insanely good !!"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Brilliant performances, excellent casting, wonderful direction and an edge of the seat entertainer which juxtaposes real life events seamlessly into the fictional storyline. A found the gore a bit too much though and would have preferred a tighter editing especially of the romance sequences. A couple of cutovers for the episodic format was a bit jarring for me and introduces breaks where the audience is gasping for more screen time. A must watch. Also, it is a known fact that the Kandahar hijacking, the parliament attack and 26/11 were all orchestrated from Pakistan, so if this movie winds up the terror apologists on both sides of the border, it is an added positive for me."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": true,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11008022/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006674",
+              "author": {
+                "username": {
+                  "text": "imdbfan-7722589976"
+                },
+                "userId": "ur199121517"
+              },
+              "summary": {
+                "originalText": "A Journey of Courage, Chaos, and Charm"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The lead delivers a transformative performance, fully inhabiting a complex character with multiple shades of morality and emotion. The director masterfully guides the ensemble, ensuring that each supporting actor leaves a lasting impression, whether through subtle gestures or intense confrontations."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006674/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006840",
+              "author": {
+                "username": {
+                  "text": "rizvizain-17771"
+                },
+                "userId": "ur188581647"
+              },
+              "summary": {
+                "originalText": "Ranveer, Sanjay, Akshaye, All in Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "From start to finish, the film combines cerebral storytelling with breathtaking action. Ranveer Singh anchors the narrative, giving a performance that balances intellect, moral conflict, and raw physicality. Sanjay Dutt adds authority and menace, while Akshaye Khanna and R Madhavan create a compelling ensemble through nuanced, layered portrayals. Arjun Rampal&#39;s quiet menace keeps tension taut, and Sara Arjun&#39;s emotionally charged performance provides depth and humanity. Aditya Dhar&#39;s direction ensures that each action sequence serves the story and every character arc feels earned. Cinematography captures both the sweeping landscapes of Karachi and intimate, intense moments, while the score punctuates suspense and drama. The film&#39;s climax delivers both emotional resonance and thrilling action, leaving a lasting impact."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006840/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006662",
+              "author": {
+                "username": {
+                  "text": "dineshkapoor-61010"
+                },
+                "userId": "ur141169427"
+              },
+              "summary": {
+                "originalText": "Drama With a Touch of Brilliance"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The tension builds steadily, crafting a world where every character&#39;s decision carries weight and consequences ripple across the narrative. Ranveer Singh embodies the internal conflicts of his character with finesse, delivering moments of quiet reflection that are as powerful as the high-octane action. Director Dhar&#39;s control over tone and pacing ensures that even slower moments carry suspense and anticipation. The supporting cast is fully realized, their interactions and conflicts adding depth to the already intricate plot. Fight sequences and chase scenes are executed with precision, blending realism with cinematic flair. The cinematography captures both sprawling cityscapes and intimate close-ups, while the score underscores emotional beats without ever overwhelming them. By the climax, the story&#39;s intensity reaches a fever pitch, leaving viewers simultaneously exhilarated and emotionally spent. It&#39;s a film that challenges expectations while delivering blockbuster thrills with intelligence and heart."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006662/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007110",
+              "author": {
+                "username": {
+                  "text": "ashutoshrathore-95707"
+                },
+                "userId": "ur196194778"
+              },
+              "summary": {
+                "originalText": "Emotions collide with explosions of pure cinema"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The intensity of Dhurandhar lies in its meticulous attention to character depth and plot intricacies. Ranveer Singh delivers a performance that oscillates effortlessly between charm and raw vulnerability, making his journey gripping. Director Dhar&#39;s vision ensures that every chase, confrontation, and dialogue pulse with tension, while the cinematography paints Karachi&#39;s underworld with vivid realism. Supporting actors bring nuance that enriches the layered storytelling. The film&#39;s pacing, paired with a haunting score, makes the long runtime feel justified, culminating in an ending that resonates long after the credits roll."
+                }
+              },
+              "authorRating": 7,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 0,
+                "downVotes": 3
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007110/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11046139",
+              "author": {
+                "username": {
+                  "text": "sudpta"
+                },
+                "userId": "ur211853534"
+              },
+              "summary": {
+                "originalText": "The Unease It Leaves Behind"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "My Detailed Take on Dhurandhar - Craft, Choices, and the Unease It Leaves Behind\nI want to begin by clearly stating that Dhurandhar is a technically strong film. The scale, performances, production design, and sheer effort behind achieving this magnitude of filmmaking are evident throughout. Some scenes are genuinely powerful, and the actors look convincing and committed. From a craft perspective, the film largely succeeds.<br/><br/>Yet, as an Indian audience member, I walked out deeply conflicted-not because the film lacked quality, but because its narrative choices repeatedly worked against emotional alignment with the audience.<br/><br/>For most of its 3.5-hour runtime, I felt like I was watching a Pakistani gang-war film with an Indian spy embedded inside it, rather than an Indian spy film about protecting Indian interests. The focus overwhelmingly stays on the rise, dominance, brutality, and internal workings of terror networks. They plan, execute, expand, and adapt on screen with remarkable narrative weight. Meanwhile, Indian intelligence appears reactive, constrained, or simply absent for long stretches.<br/><br/>I understand the premise of deep-cover espionage-that a spy must do morally questionable things to gain trust. That is acceptable and even expected. But in Dhurandhar, the Indian spy&#39;s violent actions largely serve one purpose: to help terrorists trust him more. These actions rarely translate into visible strategic gains for India-no prevention of attacks, no dismantling of networks, no sense that the balance is slowly tilting. This creates a troubling ambiguity: is Hamza meant to be a hero, or a tragic figure failing despite personal sacrifice? The film never clearly answers this, and that confusion weakens the emotional payoff.<br/><br/>One moment that crystallises this problem is the handling of Rehman Baloch. When Rehman is dying earlier in the film, Hamza saves him-despite already being deeply embedded within the group. From an operational and spycraft perspective, eliminating him then would have involved lower risk and higher strategic value. Later, Hamza kills Rehman at a far riskier moment, nearly losing his own life in the process. This decision feels less like strategy and more like plot convenience, designed to stretch the narrative into a sequel. It undermines Hamza&#39;s credibility as a trained operative and makes the arc feel artificially delayed.<br/><br/>Another issue is how Indian intelligence and the Indian state are framed historically. The film revisits events like Kandahar, the Parliament attack, and the Mumbai attacks, but largely through the lens of Indian helplessness and failure. What&#39;s missing is context-intelligence recalibration, behind-the-scenes countermeasures, and long-term strategic responses. Kandahar, for instance, was not simply incompetence; it involved intense diplomatic and intelligence pressure. By omitting that nuance, the cumulative impression becomes unsettling: Pakistani terrorists are shown as &quot;dhurandhar,&quot; while Indian systems are not.<br/><br/>From a pacing perspective, the film feels like an extended setup. In my view, the infiltration arc could have been contained within 1 to 1.5 hours. The remaining runtime should have shown the spy &quot;working his magic&quot;-outmanoeuvring handlers, neutralising threats, and systematically weakening the network. Instead, the audience is asked to wait for catharsis in Part Two. By the end, my adrenaline wasn&#39;t excitement-it was frustration. The film withholds narrative closure while demanding patience.<br/><br/>From a character and emotional alignment standpoint, I also felt something important was missing. While the film understandably shows key terror leaders as dominant-which makes sense from a craft perspective-I wanted to see their vulnerability, not just their power. In Raazi, the protagonist is not physically dominant, but her quiet intelligence and moral resolve give the audience deep satisfaction. In The Family Man, both villains and hero are brutal and competent, but the balance is clear: even when villains win battles, the strategic triumph ultimately lies with India. That balance is missing in Dhurandhar, leading not to tension but to emotional fatigue.<br/><br/>As a neutral viewer, I was also forced into an uncomfortable political reading. The film seems to suggest that earlier Indian governments lacked prudence, while later leadership enabled decisive action. This interpretation may not be intentional, but it emerges naturally from how failures are framed and how Operation Dhurandhar is eventually positioned as a corrective moment. Once the operation is attributed to Ajit Doval, the narrative begins to resemble a historical argument rather than a purely cinematic one. Whether meant to or not, the film opens itself to the charge of political signalling.<br/><br/>Finally, the most puzzling narrative choice for me is Hamza&#39;s backstory. He is shown as a trained, capable, mentally resilient spy-not weak or impulsive. Yet the film roots his recruitment in a criminal past and a life sentence. Even if we assume a softer justification-that he killed to protect his family and is not inherently criminal-the operational question remains: why place someone with such a background in one of the most sensitive, long-duration, high-risk espionage roles imaginable? Deep-cover intelligence work demands extraordinary patience, ideological clarity, emotional discipline, and sustained loyalty over years. This is not about morality but about operational logic. In reality, India has entrusted such responsibilities to rigorously trained defence and intelligence personnel-individuals with proven institutional grounding, such as officers like Mohit Sharma, who undertook covert missions based on professional military conditioning and accountability. Against that reality, the decision to anchor Operation Dhurandhar in a life-convict recruit feels unnecessarily contrived and weakens the film&#39;s realism.<br/><br/>In the end, I don&#39;t dislike Dhurandhar because of poor acting or weak filmmaking. On the contrary, the performances are strong and the ambition is commendable. I dislike it because it prioritises portraying the enemy&#39;s dominance over India&#39;s counter-capability, defers payoff for too long, and leaves the audience questioning the credibility and intent of its own narrative.<br/><br/>For me, it remains a one-time watch-worth seeing for the performances and scale, but emotionally unsatisfying as an Indian spy story. I genuinely hope Part Two restores balance, agency, and closure. If it doesn&#39;t, this first part will age poorly-not because it lacked craft, but because it forgot the audience it was speaking to."
+                }
+              },
+              "authorRating": 5,
+              "submissionDate": "2025-12-22",
+              "helpfulness": {
+                "upVotes": 1,
+                "downVotes": 2
+              },
+              "spoiler": true,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11046139/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006743",
+              "author": {
+                "username": {
+                  "text": "karansharmaks-83038"
+                },
+                "userId": "ur190977478"
+              },
+              "summary": {
+                "originalText": "Adrenaline-Filled Action with Deep Feelings"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Watching Dhurandhar is an amazing experience. The lead actors completely owned their roles-they looked and acted like real people with real problems. Supporting actors also impressed, giving depth to the story. The director did a brilliant job handling a complex plot, making it simple and engaging. Action scenes are exciting, emotional scenes hit hard, and suspense keeps you on edge. Every shot, dialogue, and fight feels purposeful. The film shows how good direction and strong performances can make a story unforgettable."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006743/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11013973",
+              "author": {
+                "username": {
+                  "text": "sahildesai-91359"
+                },
+                "userId": "ur97849514"
+              },
+              "summary": {
+                "originalText": "⭐ Dhoorandhar - Spellbinding. Brutal. Honest. A Must Watch. ⭐"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Ohh. What did I just witness? Let me pen it down for you all.<br/><br/>WOW. What. A. Movie.<br/><br/>For years, we&#39;ve been waiting for cinema to show things as they are - without sugarcoating, without fake love angles between India-Pakistan, without unnecessary &quot;Aman ki Aasha&quot; romance, without bikini distractions, without RAW-ISI love stories.<br/><br/>Dhoorandhar finally delivers that raw truth.<br/><br/>The film opens with a powerful Bhagavad Gita shloka 🔥\nFrom the first frame, it grips you.<br/><br/>Then comes the IC-814 hijack (Kandahar) sequence - intense, real, chilling.<br/><br/>Madhavan is extraordinary. His gaze, his frustration, his helplessness - brilliant. He wants more time, he wants to stop terrorism, but fate had other plans.<br/><br/>Then the narrative jumps to the Parliament attack - the day India cannot forget.<br/><br/>You feel that pain all over again.<br/><br/>From here enters Pakistan, the mountains, tension, silence... and then Ranveer Singh appears - long hair, sharp eyes, fire inside him. He disappears into the world across the border and what follows is pure cinema.<br/><br/>But then comes the man who steals the entire show -\nAkshaye Khanna as Rehman Dakkait.<br/><br/>He enters like a storm - cigarette, rage in his eyes, pain on his face.<br/><br/>Every frame he appears in... electrifies. He dominates the screen so fiercely that everyone else feels small next to him.<br/><br/>Mind-boggling. Spine-tingling. Award-worthy.<br/><br/>Sanjay Dutt and Arjun Rampal are powerful and classy as always - solid, impactful.<br/><br/>But the part that makes this film unforgettable is how they show the truth of 26/11 Mumbai attacks.<br/><br/>Not just visuals - but the conversations between handlers in Pakistan and the terrorists, live instructions, live reactions.<br/><br/>The screen turning RED, the voices echoing, the helplessness you feel -\ngoosebumps, silence, tears, anger- all at once.<br/><br/>In that moment, the entire theatre froze.<br/><br/>Everyone felt it. Everyone lived it again.<br/><br/>**This film is not entertainment - it is an experience.<br/><br/>A reminder. A punch in the gut.**<br/><br/>If you miss it, you will regret it.<br/><br/>Please watch it. Feel it. Think about it.<br/><br/>Don&#39;t miss Dhoorandhar. 🔥🎥🇮🇳"
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-09",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11013973/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007047",
+              "author": {
+                "username": {
+                  "text": "shawpari"
+                },
+                "userId": "ur115076132"
+              },
+              "summary": {
+                "originalText": "Drama That Hits Hard"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film immerses audiences in a layered narrative of politics, crime, and human struggle. Ranveer Singh excels, portraying a character navigating moral dilemmas and physical danger with finesse. Sanjay Dutt brings authority and gravitas, enhancing pivotal confrontations. Akshaye Khanna and R Madhavan provide subtle, intelligent support, and Arjun Rampal&#39;s quiet menace heightens suspense. Sara Arjun&#39;s tender performances give the story emotional depth. Aditya Dhar&#39;s direction balances complex plotting, action, and suspense seamlessly. Cinematography emphasizes both sprawling chaos and intimate moments, while the score heightens tension. The finale delivers thrilling sequences and emotional closure."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007047/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006444",
+              "author": {
+                "username": {
+                  "text": "sajidrazput"
+                },
+                "userId": "ur176218710"
+              },
+              "summary": {
+                "originalText": "Heroes, Heart & High-Octane Moments"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Dhurandhar stands out as a cinematic spectacle that never compromises on depth. The director expertly intertwines action, political intrigue, and emotional resonance, ensuring each scene serves multiple purposes. The actors rise to the occasion-each delivering layered performances that feel authentic and lived-in. The lead&#39;s subtle expressions and controlled intensity elevate pivotal moments, while the supporting cast provides grounding realism. Every shot reflects the director&#39;s meticulous eye, whether it&#39;s a slow emotional beat or an explosive action sequence. The film proves that direction and performance can work in perfect harmony."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006444/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006694",
+              "author": {
+                "username": {
+                  "text": "kunuiam"
+                },
+                "userId": "ur166745858"
+              },
+              "summary": {
+                "originalText": "Every Frame Bursts with Star Presence"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film&#39;s strength lies in its ability to combine high-octane action with grounded character development. Ranveer Singh shines as a lead whose intensity is tempered with subtle emotion, while the ensemble cast provides memorable and distinct performances. Director Dhar&#39;s vision is evident in the way the narrative unfolds, balancing suspense, action, and layered storytelling. The fight sequences are spectacularly executed, yet the focus remains on narrative significance rather than spectacle alone. Cinematography captures the tension, beauty, and grit of the story&#39;s world, while precise editing maintains pace and coherence throughout. The musical score complements the narrative, heightening stakes and emotion. By its conclusion, the film delivers a thrilling, emotionally resonant, and intellectually engaging experience, proving cinema&#39;s power to immerse, entertain, and provoke thought."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006694/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006627",
+              "author": {
+                "username": {
+                  "text": "piyakohli"
+                },
+                "userId": "ur115356384"
+              },
+              "summary": {
+                "originalText": "Action, Drama, and Emotions in Balance"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The narrative carefully balances psychological tension, action, and emotional resonance. Ranveer Singh dominates scenes with complex layers, from subtle emotional glances to explosive confrontations. Sanjay Dutt&#39;s presence adds authority, fear, and gravitas, while Akshaye Khanna and R Madhavan&#39;s performances provide intelligent narrative balance. Arjun Rampal&#39;s menacing calm keeps tension palpable, and Sara Arjun provides emotional clarity, reminding viewers of what is at stake. Aditya Dhar orchestrates suspense and action with precision, ensuring that long sequences never lose intensity. Cinematography captures the sprawling city, intimate interiors, and street-level chaos, while the score enhances every suspenseful turn. By the final act, the narrative delivers a breathtaking blend of action, strategy, and emotion, leaving a lasting cinematic impression."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006627/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007016",
+              "author": {
+                "username": {
+                  "text": "Piyush2804"
+                },
+                "userId": "ur199123444"
+              },
+              "summary": {
+                "originalText": "A Hard-Hitting Tale Told With Mega Performances"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film immerses audiences in a morally complex world, where danger lurks around every corner. Ranveer Singh&#39;s performance is a study in controlled intensity, from tense undercover operations to emotionally charged confrontations. Sanjay Dutt brings authoritative gravitas, making his scenes unforgettable. Akshaye Khanna and R Madhavan provide the subtlety and intelligence that enrich the ensemble, while Arjun Rampal&#39;s quiet menace amplifies tension throughout. Sara Arjun&#39;s emotional moments add heart to the story. Aditya Dhar&#39;s direction orchestrates pacing, suspense, and action meticulously, ensuring that every twist lands. Cinematography captures chaos and quiet moments with equal finesse, and the score elevates suspense. By the finale, the narrative delivers maximum emotional and adrenaline-fueled impact."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007016/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007003",
+              "author": {
+                "username": {
+                  "text": "raemasen"
+                },
+                "userId": "ur115076101"
+              },
+              "summary": {
+                "originalText": "Ranveer Leads an All-Star Adventure"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film&#39;s carefully layered storytelling makes every scene impactful and engaging. Ranveer Singh delivers a multi-faceted performance, balancing intellect, moral ambiguity, and emotional intensity. Sanjay Dutt exudes gravitas and menace, while Akshaye Khanna and R Madhavan provide intelligent and subtle performances. Arjun Rampal&#39;s understated menace creates constant tension, and Sara Arjun&#39;s emotional scenes provide grounding. Aditya Dhar&#39;s direction orchestrates suspense, action, and narrative complexity seamlessly. Cinematography and score amplify tension and emotional weight, while the climax delivers a perfect balance of adrenaline, resolution, and cinematic mastery."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007003/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11087441",
+              "author": {
+                "username": {
+                  "text": "nakenergy-78627"
+                },
+                "userId": "ur78501421"
+              },
+              "summary": {
+                "originalText": "Great storytelling, commanding performances but could have been better technically"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Dhurandhar was good story telling; this is where Aditya Dhar excels. Some of the scenes created great tension and excitement. The performances of all actors are compelling. Ranveer Singh being the weakest of all - he gets a chance post the scene of the Mumbai attack but doesn&#39;t come convincing enough on his guilt. Hopefully he has some meatier things in the second part. Akshaye Khanna is in an excellent form here and he lives the part. Rakesh Bedi is super while Sanjay Dutt and Rampal are solid. Overall the performances are top notch. Technically the film falters. Dhar has captured the action really well but the CGI is weak - especially during the violent and gory scenes. The sound effects are another let down. It was really shrilling to hear all sorts of sound effects when the cars collide. The film is divided in to chapters and the final chapter is the weakest - it just drags too much where Akshaye Khanna seems to be a super hero. The wedding scene shoot out is also immature with no choreography regarding who is shooting whom. Bullets just fly all over in this movie and the take a lot of time to get one. Overall a good original plot and worth the ticket price."
+                }
+              },
+              "authorRating": 7,
+              "submissionDate": "2026-01-02",
+              "helpfulness": {
+                "upVotes": 0,
+                "downVotes": 0
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11087441/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006786",
+              "author": {
+                "username": {
+                  "text": "piyushkumarjune"
+                },
+                "userId": "ur190977323"
+              },
+              "summary": {
+                "originalText": "Emotion-Filled Drama with Stunning Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "This cinematic journey balances raw power and emotional resonance in a way rarely seen in contemporary cinema. The lead&#39;s performance is both commanding and vulnerable, making each ethical dilemma hit harder. The director has crafted sequences that pulse with tension, whether in hushed conversations or explosive action moments. Supporting actors complement the lead beautifully, contributing layers of complexity. The cinematography captures stark realism alongside cinematic grandeur, while the sound design immerses the audience in every high-stakes confrontation. The screenplay&#39;s intricacies slowly unravel, revealing a story that&#39;s as intelligent as it is thrilling. By the finale, the film leaves a lingering impact that resonates well beyond the credits."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006786/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006625",
+              "author": {
+                "username": {
+                  "text": "pratyushdash-11349"
+                },
+                "userId": "ur190973830"
+              },
+              "summary": {
+                "originalText": "Every Scene Packs Action and Emotion"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Tension, strategy, and emotion are seamlessly interwoven, creating a narrative that is both gripping and deeply human. Ranveer Singh brings nuance to his role, portraying internal conflict with remarkable subtlety. Dhar&#39;s direction carefully balances narrative intricacy with kinetic energy, ensuring that the stakes feel real and immediate. The action is thrilling yet grounded, and every scene is composed to maximize visual storytelling. Supporting performances elevate the narrative, making even minor arcs significant. The cinematography and sound design enhance suspense, drawing viewers into a meticulously built world. The film&#39;s conclusion delivers a satisfying resolution while leaving lingering questions that spark reflection."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006625/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006653",
+              "author": {
+                "username": {
+                  "text": "imdbfan-6694379013"
+                },
+                "userId": "ur198700709"
+              },
+              "summary": {
+                "originalText": "A Story Built for Big Screen Magic"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The cinematic experience begins with subtle tension and escalates into a breathtaking narrative that refuses to relent. Ranveer Singh anchors the film with a performance that is both commanding and emotionally layered, while the supporting cast enriches the story with distinct, memorable portrayals. Director Dhar demonstrates exceptional skill in balancing action, suspense, and emotional resonance, allowing each scene to breathe while propelling the story forward. Fight sequences are executed with precision and intensity, while the cinematography captures the beauty and brutality of the setting in equal measure. Editing maintains a controlled pace, ensuring that even complex narrative threads remain coherent. The musical score enhances the drama and suspense organically. The film&#39;s themes of loyalty, power, and morality are explored with intelligence and grit. By its conclusion, the film achieves a rare synthesis of thrill and depth, leaving a lingering impact on the audience."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006653/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006767",
+              "author": {
+                "username": {
+                  "text": "lokeshhey"
+                },
+                "userId": "ur190977568"
+              },
+              "summary": {
+                "originalText": "A Cinematic Wave of Thrill and Emotion"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "The film Dhurandhar is unforgettable because of its direction and acting. The director carefully built each scene, making even complicated plot points easy to understand. Lead actors were outstanding, fully embodying their characters, while supporting actors added richness to the story. Action sequences were thrilling, and emotional moments were very touching. The movie keeps a steady pace, never boring you, and the performances make you feel every scene. It&#39;s a film that proves good direction and great acting can make a huge difference in cinema."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006767/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006668",
+              "author": {
+                "username": {
+                  "text": "anshmehraa"
+                },
+                "userId": "ur196232725"
+              },
+              "summary": {
+                "originalText": "Bold Drama with High-Speed Action"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Watching Dhurandhar is like witnessing a symphony of performance and direction. The director handles a sprawling, complex narrative with skill, giving actors the space to shine while maintaining control over the film&#39;s tone and pace. The lead delivers a performance that is both commanding and subtle, while the supporting cast brings richness to the story. Each character has clearly defined arcs, and the director ensures their journeys intersect naturally. The action sequences are choreographed with realism and narrative intent, while quieter moments are filled with tension and emotion. Every directorial choice enhances the performances, making the film a masterclass in collaboration between actor and director."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006668/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11006584",
+              "author": {
+                "username": {
+                  "text": "gauravmaratha-90751"
+                },
+                "userId": "ur151424274"
+              },
+              "summary": {
+                "originalText": "Ranveer Singh in a Power Movie"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Every sequence is meticulously structured, making the narrative gripping from start to finish. Ranveer Singh delivers a magnetic performance, conveying Hamza&#39;s internal conflict and resilience. Sanjay Dutt dominates with authority and menace, while Akshaye Khanna and R Madhavan add depth and subtle tension. Arjun Rampal&#39;s controlled menace creates constant suspense, and Sara Arjun&#39;s innocence highlights the stakes. Aditya Dhar orchestrates suspense, drama, and action flawlessly. Cinematography captures Karachi&#39;s chaos and intimate interactions alike, while the score heightens tension. By the finale, the narrative delivers both thrills and emotional resonance."
+                }
+              },
+              "authorRating": 9,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 2
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11006584/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "rw11007601",
+              "author": {
+                "username": {
+                  "text": "ketanrathor"
+                },
+                "userId": "ur93673367"
+              },
+              "summary": {
+                "originalText": "Lengthy but gripping"
+              },
+              "text": {
+                "originalText": {
+                  "plaidHtml": "Amazing movie. Akshaye Khanna has resurrected his career with his acting and this movie performance is another feather in his crown. Movie can feel like a propaganda for some people but can&#39;t help, they would&#39;ve liked movies like Pathan, Jawan because it suits their ideology. Movie can feel bit lengthy at times where scenes look unnecessary or slowing down the pace. Hold on there is a part 2."
+                }
+              },
+              "authorRating": 10,
+              "submissionDate": "2025-12-07",
+              "helpfulness": {
+                "upVotes": 2,
+                "downVotes": 4
+              },
+              "spoiler": false,
+              "reportingLink": {
+                "url": "https://contribute.imdb.com/review/tt33014583/rw11007601/report?bus=imdb&return_url=https%3A%2F%2Fwww.imdb.com%2Fclose_me&site=web"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "extensions": {
+    "disclaimer": "Public, commercial, and/or non-private use of the IMDb data provided by this API is not allowed. For limited non-commercial use of IMDb data and the associated requirements see https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX#",
+    "experimentalFields": {
+      "janet": [],
+      "userProfile": []
+    }
+  }
+}

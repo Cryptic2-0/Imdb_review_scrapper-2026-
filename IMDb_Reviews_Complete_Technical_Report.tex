@@ -1,0 +1,39 @@
+
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{hyperref}
+\setstretch{1.15}
+
+\title{IMDb Review Scraper: Complete Failure Analysis}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{Abstract}
+This document is a complete engineering post-mortem of an IMDb review downloader that failed due to IMDb architectural changes.
+
+\section{Historical Context}
+IMDb reviews were historically server-rendered HTML.
+
+\section{Client-Side Rendering}
+IMDb migrated to Next.js and GraphQL.
+
+\section{Persisted Queries}
+IMDb uses persisted GraphQL queries with SHA-256 hashes.
+
+\section{Session Enforcement}
+Requests require valid cookies.
+
+\section{Pagination}
+Cursor-based pagination using endCursor.
+
+\section{Schema Instability}
+Fields may be missing.
+
+\section{Conclusion}
+Failures were architectural, not logical.
+
+\end{document}
